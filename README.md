@@ -3,7 +3,7 @@
 
 # THESTAR.ENGINE
 
-**TSE** — A next-gen memory editing toolkit built because Cheat Engine 7.5/7.6 was getting on my nerves. This is the private beta (v1.0.4), closed source, and honestly? It's just better.
+**TSE** — A next-gen memory editing toolkit built because Cheat Engine 7.5/7.6 was getting on my nerves. This is the private beta (v1.0.5), closed source, and honestly? It's just better.
 
 ---
 
@@ -82,4 +82,4 @@ This tool is for educational purposes and legitimate game modding/reverse engine
 
 *Built with the power of STAR* 
 
-**Current build:** 1.0.4 PRIV BETA
+**Current build:** 1.0.5 PRIV BETA
